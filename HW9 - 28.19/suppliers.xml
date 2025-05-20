@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<suppliers>
+  <supplier id="S01">
+    <name>Доміно</name>
+    <rating>4</rating>
+    <address>domino@com.ua</address>
+  </supplier>
+  <supplier id="S02">
+    <name>Кондор</name>
+    <rating>6</rating>
+    <address>condor@com.ua</address>
+  </supplier>
+</suppliers>

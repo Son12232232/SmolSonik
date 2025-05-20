@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<products>
+  <product id="P01">
+    <name>Олівець</name>
+  </product>
+  <product id="P02">
+    <name>Ручка кулькова</name>
+  </product>
+</products>
