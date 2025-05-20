@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<prices>
+  <price>
+    <supplier>S01</supplier>
+    <product>P01</product>
+    <price>2.5</price>
+    <term>5</term>
+  </price>
+  <price>
+    <supplier>S02</supplier>
+    <product>P01</product>
+    <price>2.4</price>
+    <term>6</term>
+  </price>
+</prices>
